@@ -1,0 +1,4 @@
+Math: 0
+Eng: 50
+Sci : 80
+Coding : 100
